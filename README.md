@@ -30,7 +30,7 @@
           
 ##Connect
 <div style="flex">
- <a href="https:/www.linkedin.com/in/opongjason"> 
+ <a href="https://www.linkedin.com/in/opongjason"> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"   width=100 height=100/>
 </a> 
 </div>
